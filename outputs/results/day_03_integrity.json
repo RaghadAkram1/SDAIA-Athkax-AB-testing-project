@@ -1,0 +1,20 @@
+{
+  "users": 7000,
+  "A": 3468,
+  "B": 3532,
+  "srm_chi_square": 0.5851428571428572,
+  "srm_p_value": 0.4443035160943034,
+  "srm_threshold": 0.001,
+  "duplicate_accounts": 0,
+  "missing_required": {},
+  "invalid_binary": {
+    "finished_in_24h": 0,
+    "encountered_error": 0,
+    "needed_human_support": 0,
+    "opened_ai_widget": 0
+  },
+  "ai_used_in_control": 0,
+  "impossible_completion_time_records": 0,
+  "structural_missing_time_for_noncompleters": 2524,
+  "data_usable_for_inference": true
+}
